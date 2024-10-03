@@ -1,2 +1,2 @@
 # testesPostman
-Testes realizados com Postman durante aula de Mentoria Jornada de Qualidade PRO
+Testes de API realizados no site https://serverest.dev/#/ utilizando o Postman durante aula de Mentoria Jornada de Qualidade PRO
